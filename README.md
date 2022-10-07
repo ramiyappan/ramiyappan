@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ramaswamy Iyappan.
-- 👀 I’m currently interested in the field of Data Science and Machine Learning.
+- 👀 I’m currently pursuing Masters in Computer Science at George Mason University, Virginia, and I've developed interest in the field of Data Science and Machine Learning.
 - 🌱 I’m currently learning the magic behind various Machine Learning algorithms used for predictive modeling, Classifying & Clustering data and also developing skills in Web Dev.
 - I’m looking to collaborate on any projects/internship opportunities which will help me gain a real-time experience in my current interests.
 - Do give a check on my Resume for a short summary of myself, attached in this repository.
