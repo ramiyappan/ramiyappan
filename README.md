@@ -1,5 +1,8 @@
 <h1> 👋 Hello World! </h1>
-I'm happy to introduce myself. I’m Ramaswamy Iyappan, currently pursuing Masters in Computer Science at George Mason University, Virginia, and I've developed interest in the field of Data Science and Machine Learning.
+I'm happy to introduce myself. 
+
+I’m Ramaswamy Iyappan, Graduate student pursuing Masters in Computer Science at George Mason University, Virginia.
+
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
