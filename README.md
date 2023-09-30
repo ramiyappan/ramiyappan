@@ -10,11 +10,12 @@ I'm happy to introduce myself. I’m Ramaswamy Iyappan, currently pursuing Maste
   <img alt="Static Badge" src="https://img.shields.io/badge/Python-13aa52?style=flat-square&logo=python&logoColor=white&labelColor=13aa52">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white">
 </p>
-- 🌱 I’m currently learning the magic behind various Machine Learning algorithms used for predictive modeling, Classifying & Clustering data and also developing skills in Web Dev.
-- Skills: Python, Pytorch, Sci-kit Learn, Jupyter Notebook, VScode, Supervised/Unsupervised learning, Exploratory Data Analysis, Neural Networks, Ensemble modeling, Dimensionality Reduction, HTML-CSS, Javascript, jQuery, Ajax, JSON, C, and MySQL.
-- I’m looking to collaborate on any projects/internship opportunities which will help me gain a real-time experience in my current interests.
-- Do give a check on my Resume for a short summary of myself, attached in this repository.
-- Email me through ramiyappan98@gmail.com or get connected in LinkedIn @ https://www.linkedin.com/in/ramaswamy-iyappan to reach out to me.
+
+I’m currently learning the magic behind various Machine Learning algorithms used for predictive modeling, Classifying & Clustering data and also developing skills in Web Dev.
+
+Skills: Python, Pytorch, Sci-kit Learn, Jupyter Notebook, VScode, Supervised/Unsupervised learning, Exploratory Data Analysis, Neural Networks, Ensemble modeling, Dimensionality Reduction, HTML-CSS, Javascript, jQuery, Ajax, JSON, C, and MySQL.
+
+I’m looking to collaborate on any projects/internship opportunities which will help me gain a real-time experience in my current interests.
 
 <h3>Where to find me</h3>
 <p>
