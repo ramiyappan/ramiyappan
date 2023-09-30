@@ -16,6 +16,12 @@ I'm happy to introduce myself. I’m Ramaswamy Iyappan, currently pursuing Maste
 - Do give a check on my Resume for a short summary of myself, attached in this repository.
 - Email me through ramiyappan98@gmail.com or get connected in LinkedIn @ https://www.linkedin.com/in/ramaswamy-iyappan to reach out to me.
 
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/ramiyappan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ramaswamy-iyappan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+</p>
+
 <!---
 ramiyappan/ramiyappan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
