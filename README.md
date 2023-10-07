@@ -1,7 +1,7 @@
 <h1> 👋 Hello World! </h1>
 I'm happy to introduce myself. 
 
-I’m Ramaswamy Iyappan, Graduate student pursuing Masters in Computer Science at George Mason University, Virginia.
+I’m Ramaswamy Iyappan (Ram) from Chennai, India, currently a Graduate student pursuing Masters in Computer Science at George Mason University, Virginia.
 
 <h3>Things I code with</h3>
 <p>
