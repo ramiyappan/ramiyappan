@@ -4,7 +4,20 @@ I'm happy to introduce myself.
 <br> I’m Ramaswamy Iyappan (Ram) from Chennai, India, <br>
 currently pursuing Masters in Computer Science at George Mason University, Virginia.
 
-<h3>Things I code with</h3>
+<h2>Certifications</h2>
+<a href="https://www.credly.com/badges/e95887ed-eefc-4617-9e66-e842ebc34276">
+<img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150px" height="150px" />
+</a>
+
+<a href="https://www.credly.com/badges/a9f54737-c2e2-4295-8c5d-e91c4fc42029">
+<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150px" height="150px" />
+</a>
+
+<a href="https://www.credly.com/badges/35c3909f-2179-4bc6-8f18-0aa8b446bc8f">
+<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150px" height="150px" />
+</a>
+
+<h2>Tech Stack</h2>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-007ACC?style=flat-square&logo=mysql&logoColor=white">
