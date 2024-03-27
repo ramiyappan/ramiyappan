@@ -10,6 +10,10 @@ an aspiring Computer Science Graduate from George Mason University, Virginia.
 [<img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" width="150" height="150">](https://www.credly.com/badges/b4c955ea-9ead-4236-8364-2ca1194b067d)
 [<img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" width="150" height="150">](https://www.credly.com/badges/ea4cde74-e83b-47de-9fa8-a431c4154723)
 
+<br> I’m currently learning the magic behind various Machine Learning algorithms used for predictive modeling, Classifying & Clustering data and also developing skills in Web Dev.
+
+I’m looking to collaborate on any projects/internship opportunities which will help me gain a real-time experience in my current interests.
+
 <h2>Tech Stack</h2>
 
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -49,12 +53,6 @@ an aspiring Computer Science Graduate from George Mason University, Virginia.
   ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-
-I’m currently learning the magic behind various Machine Learning algorithms used for predictive modeling, Classifying & Clustering data and also developing skills in Web Dev.
-
-Skills: Python, Pytorch, Sci-kit Learn, Jupyter Notebook, VScode, Supervised/Unsupervised learning, Exploratory Data Analysis, Neural Networks, Ensemble modeling, Dimensionality Reduction, HTML-CSS, Javascript, jQuery, Ajax, JSON, C, and MySQL.
-
-I’m looking to collaborate on any projects/internship opportunities which will help me gain a real-time experience in my current interests.
 
 <h3>Where to find me</h3>
 <p>
