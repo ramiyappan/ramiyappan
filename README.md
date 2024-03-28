@@ -1,6 +1,10 @@
 <h1> 👋 Hello World! </h1>
 I’m Ramaswamy Iyappan (Ram) from Chennai, India, <br>
 an aspiring Computer Science Graduate from George Mason University, Virginia.
+<br><br>
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=$.count&url=https://api.github.com/users/ramiyappan)
+
 
 <h2>Certifications</h2>
 
