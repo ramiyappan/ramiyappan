@@ -20,6 +20,7 @@
 
 ![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=$.count&url=https://api.github.com/users/ramiyappan)
 -->
+<br>
 
 <h2>Certifications</h2>
 
@@ -75,7 +76,7 @@
 
 </div>
 
-<h3>Where to find me</h3>
+<h2>Where to find me</h2>
 <p>
   <a href="https://github.com/ramiyappan" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ramaswamy-iyappan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
