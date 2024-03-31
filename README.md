@@ -11,7 +11,7 @@
   React JS, JavaScript, Data Visualization
 
   Recent project: <br>
-  [React Jobs](https://github.com/ramiyappan/react-jobs-ui) - live @ https://stupendous-meerkat-014f48.netlify.app/
+  [Git repo](https://github.com/ramiyappan/react-jobs-ui) - live @ [React Jobs](https://stupendous-meerkat-014f48.netlify.app/)
   
   Let's collaborate on: <br>
   Full-Stack & Data Analysis projects
