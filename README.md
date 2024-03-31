@@ -24,11 +24,11 @@
 
 <h2>Certifications</h2>
 
+[<img src="https://images.credly.com/size/680x680/images/b47e9b58-7f54-4981-b156-5e7d354c8215/Professional_Certificate_-_Data_Science.png" width="150" height="150">](https://www.credly.com/badges/133420f6-25cc-4016-8923-ae66aca55fb1)
+[<img src="https://images.credly.com/size/680x680/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" width="150" height="150">](https://www.credly.com/badges/f6ecb024-9e13-4927-a783-e07621bc873e)
 [<img src="https://images.credly.com/size/680x680/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="150" height="150">](https://www.credly.com/badges/e95887ed-eefc-4617-9e66-e842ebc34276)
 [<img src="https://images.credly.com/size/680x680/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="150" height="150">](https://www.credly.com/badges/a9f54737-c2e2-4295-8c5d-e91c4fc42029)
 [<img src="https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="150" height="150">](https://www.credly.com/badges/35c3909f-2179-4bc6-8f18-0aa8b446bc8f)
-[<img src="https://images.credly.com/size/680x680/images/594e0ab7-c864-4d9a-9987-3a903ec3f06a/Cognitive_Class_-_DB_and_SQL_for_Data_Sci.png" width="150" height="150">](https://www.credly.com/badges/b4c955ea-9ead-4236-8364-2ca1194b067d)
-[<img src="https://images.credly.com/size/680x680/images/7d06faf8-c754-4ecd-8ab1-2115826b03c6/Python_Project_for_Data_Science.png" width="150" height="150">](https://www.credly.com/badges/ea4cde74-e83b-47de-9fa8-a431c4154723)
 
 <h2>Tech Stack</h2>
 
