@@ -9,6 +9,9 @@
     
   Currently Learning: <br>
   React JS, JavaScript, Data Visualization
+
+  Recent project: <br>
+  [React Jobs](https://github.com/ramiyappan/react-jobs-ui) - live @ https://stupendous-meerkat-014f48.netlify.app/
   
   Let's collaborate on: <br>
   Full-Stack & Data Analysis projects
@@ -20,7 +23,7 @@
 
 ![Profile Views](https://img.shields.io/badge/dynamic/json?label=Profile%20Views&query=$.count&url=https://api.github.com/users/ramiyappan)
 -->
-<br>
+
 
 <h2>Certifications</h2>
 
