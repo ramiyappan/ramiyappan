@@ -21,8 +21,8 @@
 
 <div>
 
-<img src="https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=480&card_height=200" alt="GitHub Streak" />
-<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyappan&layout=compact&theme=radical&card_width=300"/>
+<img src="https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=400&card_height=200" alt="GitHub Streak" />
+<img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyappan&layout=compact&theme=radical&card_width=290"/>
 
 </div>
 </div>
