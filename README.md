@@ -25,7 +25,7 @@
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api?username=ramiyappan&show_icons=true&theme=radical&rank_icon=github&custom_title=Ram's+GitHub+Stats&card_width=450"/>
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ramiyappan&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=480)](https://git.io/streak-stats)
 
 <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyappan&layout=compact&theme=radical&card_width=310"/>
 
