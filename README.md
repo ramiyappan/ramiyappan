@@ -21,7 +21,7 @@
 
 <div>
 
-  <img src="https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=450&card_height=200" alt="GitHub Streak" />
+  <!-- <img src="https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=450&card_height=200" alt="GitHub Streak" /> -->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyappan&layout=compact&theme=radical&card_width=310" alt="Top Languages" />
 
 </div>
