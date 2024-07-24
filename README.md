@@ -10,7 +10,7 @@
   Dive into my [Portfolio Website](https://ramiyappan.github.io/portfolio) to learn more about my projects, skills, and professional background. 
     
   Currently Learning: <br>
-  React JS, JavaScript, Data Visualization
+  **Terraform (HCL)**
 
   Recent project: <br>
   [Git repo](https://github.com/ramiyappan/react-jobs-ui) - live @ [React Jobs](https://stupendous-meerkat-014f48.netlify.app/)
