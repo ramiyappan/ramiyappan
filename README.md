@@ -6,8 +6,6 @@
   <p style="flex-grow: 1;">
   I’m Ramaswamy Iyappan (Ram) from Chennai, India, <br>
   an aspiring Computer Science Graduate from George Mason University, Virginia.
-
-  Dive into my [Portfolio Website](https://ramiyappan.github.io/portfolio) to learn more about my projects, skills, and professional background. 
     
   Currently Learning: <br>
   **Terraform (HCL)**
