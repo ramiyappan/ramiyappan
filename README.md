@@ -8,7 +8,7 @@
   an aspiring Computer Science Graduate from George Mason University, Virginia.
     
   Currently Learning: <br>
-  **Terraform (HCL)**
+  **To build AI Agents**
 
   Recent project: <br>
   [Git repo](https://github.com/ramiyappan/react-jobs-ui) - live @ [React Jobs](https://stupendous-meerkat-014f48.netlify.app/)
@@ -19,7 +19,7 @@
 
 <div>
 
-  <img src="https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=450&card_height=200" alt="GitHub Streak" />
+  <!-- img src="https://streak-stats.demolab.com?user=ramiyappan&theme=radical&card_width=450&card_height=200"/-->
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiyappan&layout=compact&theme=radical&card_width=310" alt="Top Languages" />
 
 </div>
